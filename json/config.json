@@ -1,0 +1,52 @@
+{
+"token":"",
+"port":3000,
+"PREFIX": "y",
+"MongoDB_TOKEN": "mongodb+srv://eihabgamal:Ei123123@cluster1.tnoe7.mongodb.net/?retryWrites=true&w=majority",
+"BOT_ID":"1059207764263587910",
+"GUILD": "738549193144270969",
+"webhook_id": "1077426477198483496",
+"webhook_token": "jtlvojr2tqbJ8THcf1lhNOejMWGXpLI6WlVXdzbT4SnITklDjNQG6qNTD09K9aTQLtpN",
+"ChannelID": "1058581099883798619",
+"clientID": "1059207764263587910",
+"clientId": "1059207764263587910",
+"guildId": "738549193144270969",
+"allMentions": false, 
+"TAXCHANNEL":["","",""],
+"PM2_PUBLIC_KEY": "hbciped75p3qx7w",
+"PM2_SECRET_KEY":",6ve1v3vqyx4zocx",
+"status": ["youyou"],
+"time_status":4000,
+"status2":"online",
+"activity":"WATCHING",
+"botlogs": {
+    "inviteLogs": "910188126792716289",
+    "feedbackChannel": "910188126792716289",
+    "bugChannel": "910188126792716289",
+    "suggestionChannel": "910188126792716289",
+    "commandLogsChannel": "1063484537516085338",
+    "errorLogsChannel": "910188126792716289",
+    "premiumLogChannel": "910188126792716289"
+},
+"events": {
+    "Enable_debug": false
+},
+"Enable_MongoDB": true,
+"color": {
+        "delete": "#ed4245",
+        "edit": "#fee65c"
+    },
+"AUTOLINECHANNEL": ["1068530197579702282","890382500491329558","991684194294038588"],
+"LINE": "https://media.discordapp.net/attachments/910188125190516820/1069951497804185640/ec0702b434e5ac99.gif",
+
+"sugid": ["929826856805486622","1020087361897517127","1020087827070988319","1020088462847787048"],
+
+
+
+  
+"API_BOT_ELBOB_DEV":"https://localhost/eihabgamal20:3080",
+"_Developer_Tools":"https://discord.gg/8NbgPvBeQY",
+
+
+"AME_API":"061009fe1127379c9bfa4030a4951396f67a3da0d0190f3c342f091b8cea1cfbd94fbc5bfd91b6d9ae1061d7243e0c2d75a07cc3122c6179851ca9d488b46a8e"
+}
